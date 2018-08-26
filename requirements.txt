@@ -1,0 +1,3 @@
+speedtest-cli
+requests
+bs4
